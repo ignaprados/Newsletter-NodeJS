@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/IgnacioPrados/web/gh-pages/assets/img/preview.JPG)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/Newsletter-NodeJS/master/public/images/preview.JPG)
 # Newsletter Node JS & Express
 Suscribe Page - Newsletter Created with Node JS & Express using Mailchimp API.
 <br><br>
