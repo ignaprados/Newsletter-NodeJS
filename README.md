@@ -2,9 +2,7 @@
 # Newsletter Node JS & Express
 Suscribe Page - Newsletter Created with Node JS & Express using Mailchimp API.
 <br><br>
- Creator: Ignacio Prados.
- <br><br>
- Key Technologies used: HTML5 - CSS3 - JavaScript - Node.js - Express.js
+Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
  
  ## Installation
 
@@ -22,3 +20,13 @@ Or you can use instead [npm](https://www.npmjs.com/)
  ```
  npm start
  ```
+
+## Key Technologies used
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- Mailchimp API
+
+> © 2021 Made by IgnacioPrados
